@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project investigates condition monitoring, fault diagnosis and Remaining Useful Life (RUL) estimation for rotating machinery using vibration-signal analysis and stochastic modelling in MATLAB.
-
-The study combines time-domain statistics, frequency-domain analysis, bearing-fault diagnostics and prognostic modelling within a single workflow.
+This project investigates condition monitoring, fault diagnosis and Remaining Useful Life (RUL) estimation for rotating machinery using vibration-signal analysis and stochastic modelling in MATLAB. It combines time-domain statistics, frequency-domain analysis, bearing-fault diagnostics and prognostic modelling within a single workflow.
 
 The project was completed as part of the undergraduate course **Diagnostics and Prognostics of Machinery** at the University of Patras.
 
